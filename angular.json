@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular30DaysECApplication"
+    }
+  },
+  "defaultProject": "Angular30DaysECApplication",
+  "cli": {
+    "analytics": false
+  }
 }
